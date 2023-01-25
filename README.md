@@ -2,7 +2,7 @@
 intro to me
 
 # project description
-talking about me for this project.
+a descripttive paragraph about me
 
 # installation
 copy repository to project location
