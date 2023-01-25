@@ -2,10 +2,12 @@
 intro to me
 
 # project description
-a descripttive page about me
+A descripttive page about me
+
+![alt text](https://github.com//Wall-Ethan/wall_e_HW1/raw/main/src/common/img/gaming.png "gaming hobbie")
 
 # instalation
-copy repository from github to preferred project location
+Copy repository from github to preferred project location
 
 # credits
 Myself and my family
