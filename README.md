@@ -4,8 +4,6 @@ intro to me
 # project description
 A descripttive page about me
 
-![hobbie](https://github.com//Wall-Ethan/wall_e_HW1/raw/main/img/gaming.png "gaming hobbie")
-
 # instalation
 Copy repository from github to preferred project location
 
@@ -23,3 +21,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+
+
+[def]: https://github.com//Wall-Ethan/wall_e_HW1/raw/main/img/gaming.png "gaming hobbie"
