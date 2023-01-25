@@ -4,7 +4,7 @@ intro to me
 # project description
 A descripttive page about me
 
-![alt text](https://github.com//Wall-Ethan/wall_e_HW1/raw/main/src/common/img/gaming.png "gaming hobbie")
+![hobbie](https://github.com//Wall-Ethan/wall_e_HW1/raw/main/img/gaming.png "gaming hobbie")
 
 # instalation
 Copy repository from github to preferred project location
